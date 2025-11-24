@@ -9,14 +9,14 @@
 Este repositorio contiene una colección de pruebas, ejemplos y experimentos utilizando Numba CUDA para ejecutar cómputo paralelo en GPUs mediante kernels escritos en Python.
 Incluye ejemplos fundamentales como:
 
-** Lanzamiento de kernels 1D y 2D 
-** Identificación de hilos y bloques
-** Sobel Edge Detection en GPU
-** Multiplicación de matrices (naive kernel)
-** Escalado de matrices a gran tamaño
-** Comparaciones de rendimiento CPU vs GPU
-** Uso del simulador CUDA (NUMBA_ENABLE_CUDASIM) cuando no hay GPU disponible
-** Estos programas demuestran cómo aprovechar la GPU para acelerar tareas intensivas.
+## ** Lanzamiento de kernels 1D y 2D 
+## ** Identificación de hilos y bloques
+## ** Sobel Edge Detection en GPU
+## ** Multiplicación de matrices (naive kernel)
+## ** Escalado de matrices a gran tamaño
+## ** Comparaciones de rendimiento CPU vs GPU
+## ** Uso del simulador CUDA (NUMBA_ENABLE_CUDASIM) cuando no hay GPU disponible
+## ** Estos programas demuestran cómo aprovechar la GPU para acelerar tareas intensivas.
 
 
 OBSERVACION: 
