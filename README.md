@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c6f6ca8-5a92-4538-900f-9ace952ae61c" />
 
-## AUTOR: JUAN NAVARRETE GUZMÁN
-## MATERIA: INTRODUCCIÓN A CUDA
+## Autor: Juan Navarrete Guzmán
+## INTRODUCCIÓN A CUDA
 ## Instructor: Dr. German Pinedo
 
  ## Descripción general
