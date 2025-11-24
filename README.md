@@ -2,6 +2,7 @@
 
 ## INTRODUCCIÓN A CUDA
 Autor: Juan Navarrete Guzmán
+
 Instructor: Dr. German Pinedo
 
  ## Descripción general
