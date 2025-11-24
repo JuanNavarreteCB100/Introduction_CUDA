@@ -26,7 +26,7 @@ Incluye ejemplos fundamentales como:
 ** Estos programas demuestran cómo aprovechar la GPU para acelerar tareas intensivas.
 
 
-OBSERVACION: 
+## OBSERVACION: 
 
 ** Numba CUDA permite escribir kernels en Python manteniendo una sintaxis cercana a CUDA C.
 
